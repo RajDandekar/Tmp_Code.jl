@@ -1,6 +1,4 @@
 
-cd("/Users/sreedath/Desktop/Julia Computing 2022 Job")
-Pkg.activate(".")
 
 using LinearAlgebra
 using Flux, DiffEqFlux
